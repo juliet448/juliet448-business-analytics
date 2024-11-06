@@ -1,13 +1,10 @@
-### juliet448-business-analytics
+### juliet448-Business-Analyst 
 
 ---
 I am an aspiring business analyst, actively engaged in professional development with an incubator hub. This experience has enhanced my skills in data analysis, manipulation and visualization. Tasked with analyzing sales performance, market research and trends with hands-on projects, extracting insights from data to drive informed business decision-making and business growth. 
 
 
 ###  Project Tittle: Sales Performance Analysis for a Retail Store
-
----
--Perform an initial exploration of the sales data
 
 ---
 [CAPSTONE PROJECT OVERVIEW](#capstone-project-overview)
@@ -18,35 +15,26 @@ I am an aspiring business analyst, actively engaged in professional development 
 [TOOLS USED](#tools-Used)
 [DATA VISUALIATION](#data_visualisation)
 
-
 ### project overview
-
 ---
 - Analyze and evaluate the retail store's sales performance,sales data to identifying factors driving sales growth, trends, opportunities, and challenges, informing data-driven decisions to optimize sales performance and improve overall business strategy.
 
-
 ### Objective:
-
 ---
 - Data Collection: collect comrehensive Revenue, unit sold region, transaction category from various stores.
-
 - Trend Analysis: Identifying sales trend and analysing historical patterns using of dataset such as region, unit sold, revenue and product during specific periods.
-
 - Reporting: Identify top-selling products, customer segments, and sales trends, analysing generated reports that summarieses findings that offers strategic recommendaations based on analysis.
-
 - Analyze sales data to identify trends, opportunities, and challenges, informing data-driven decisions to optimize sales performance and improve overall business strategy.
-
 
 ### Data Sources
 ---
 - Datasets sources contains the following such as:
   
-     1.   Total sales by product: This indentifies the quantity of products sold during a specific. The most selling products that shows drive majority of sales, strong growth potentials and a declining sales that requires attention due.
-     2.   Total sales by region: This represents the geographical areas where stores are situated, Summarising the quantity of products sold and total income generated from sales transactions, highest generating revenue in the regions and a declining sales in the region.
-    3.  Total sales by month: Acurrately analysing sales transactions from January to December, identifying potential month sales and declining months sales for improvement.
-    4.  Average sales per product: Analysing the average annual sales of products to acertain the most majority sales and identifying ares of improvement to be focus on.
-    5.  Total revenue by region: This indicate the quantity of products sold, trends, competitor analysis, and market size estimates to specific group within a widerscope region that captures various areas, economic conditions and total income generated from sales transactions to analyze sales performance.
-
+      1.    Total sales by product: This indentifies the quantity of products sold during a specific. The most selling products that shows drive majority of sales, strong growth potentials and a declining sales that requires attention due.
+      2.    Total sales by region: This represents the geographical areas where stores are situated, Summarising the quantity of products sold and total income generated from sales transactions, highest generating revenue in the regions and a declining sales in the region.
+     3.    Total sales by month: Acurrately analysing sales transactions from January to December, identifying potential month sales and declining months sales for improvement.
+     4.   Average sales per product: Analysing the average annual sales of products to acertain the most majority sales and identifying ares of improvement to be focus on.
+     5.  Total revenue by region: This indicate the quantity of products sold, trends, competitor analysis, and market size estimates to specific group within a widerscope region that captures various areas, economic conditions and total income generated from sales transactions to analyze sales performance.
 
 - The above detailed dataset collection of sales Performance Analysis for a retail store, provided informed insight of customer behaviour and sales performance.
 
@@ -58,41 +46,31 @@ I am an aspiring business analyst, actively engaged in professional development 
 - Average sales per product
 - Total revenue by region.
  
-
-
-
-### Tools Used
-
----
-# Microsoft Excel:
-
-- Formulas and Function: This was used to calculate performance, and automate processses e.g filtering and sorting =SUMIF(D:D,D2,H1:H9922)
-- Pivot Table: This is grouping data, analysing and generating informed insights e.g sales by product, revenur by region, sales by month to enhance informed decision making.
-- Data Visualisation: This is using dataset to create visual trends, key insight and comparison.
-
+ ### Tools Used
+--- 
+- Microsoft Excel:
+    1.   Formulas and Function: This was used to calculate performance, and automate processses e.g filtering and sorting =SUMIF(D:D,D2,H1:H9922)
+    2.   Pivot Table: This is grouping data, analysing and generating informed insights e.g sales by product, revenur by region, sales by month to enhance informed decision making.
+    3.   Data Visualisation: This is using dataset to create visual trends, key insight and comparison.
 
 ### Exploratory Data Analysis
 ---
-EDA includes exploring the data to respond to some questions about the data such as;
+- EDA includes exploring the data to respond to some questions about the data such as;
+    1.   What is the overall revenue for each region?
+    2.   Which of the month has year over year growth?
+    3.   Which product has the lowest sales?
 
-- What is the overall revenue for each region?
-
-- Which of the month has year over year growth?
-
-- Which product has the lowest sales?
-
-
-  ### DATA VISUALIZATION
+### DATA VISUALIZATION
 
   ---
-  These includes the following:
- ### Tota sales by Product
+  - These includes the following dataset as shown below:
+  
+### Tota sales by Product 
 
----
 <img width="960" alt="Total sales by Product pivot" src="https://github.com/user-attachments/assets/7b9c861e-322d-4ab7-9d02-f74b4ed8ede6"> 
-
-- Summary of sales by Product:
 ---
+- Summary of sales by Product:
+
    1. Here Product of shoes and shirt sales shows drive majority of sales.
    2. Here Product of Hat and Gloves sales shows strong growth potential.
    3. Here Product Jacket and Stocks sales requires attention due to declining sales.
@@ -100,102 +78,76 @@ EDA includes exploring the data to respond to some questions about the data such
 ### Total sales by Region
  ---
  <img width="960" alt="sales by region pivot" src="https://github.com/user-attachments/assets/7647cf29-1e98-4465-9448-d07387c38f96"> 
-
+ ---
  - Summary of sales by Region
 
-  1. South region drives highest sales with total point value 927,820 (44%).
-  2. East region shows strong growth potential of sales with 485,925.
-  3. North region: There is a  decline in sales of showing 387,000 compare to South region and this requires attention due to findings
-  4. West region maintains stable sales of 300,345.
+     1.   South region drives highest sales with total point value 927,820 (44%).
+     2.   East region shows strong growth potential of sales with 485,925.
+     3.   North region: There is a  decline in sales of showing 387,000 compare to South region and this requires attention due to findings
+     4.   West region maintains stable sales of 300,345.
  
-
 ### Tota sales by Month
 
-
 ----
-
 - FILTER CHART FOR THE FOR MONTH SALES
+- --
 <img width="960" alt="total sales by month" src="https://github.com/user-attachments/assets/652582c6-a4c1-495a-9760-97211bf2f399">
 
-
 ---
-
 - FILTER CHART FOR THE YEAR 2023
-
-
- 
 <img width="960" alt="image" src="https://github.com/user-attachments/assets/5520cb3a-0663-4490-898b-87a07852a1c2">
 
-
 ---
-
 - FILTER CHART FOR THE YEAR 2024
-
-- --
-
-  
+- - --
 <img width="960" alt="image" src="https://github.com/user-attachments/assets/503c5961-ac11-448d-b452-62691761acfa">
 
-### Average Sales Per Product.
+### Average Sales Per Product
 
 ---
-
 <img width="960" alt="image" src="https://github.com/user-attachments/assets/43a3dcba-67c3-4e12-bb75-ffaa93a4f283">
 
-### Total Revenue by Region.
-
+### Total Revenue by Region
 ----
-
 <img width="960" alt="Average, region revenue by revenue" src="https://github.com/user-attachments/assets/2a7001d5-d537-4405-84b3-7b69b8ba6f33">
 
 ### Top 3 Region Sales
-
 <img width="960" alt="image" src="https://github.com/user-attachments/assets/0fa4509b-c020-4ea2-81e9-81d2a65982a2">
 
-----
+---- 
 ### Summary of sales by Month
-
-- 
+---
     1.   Q1, Q3 and Q4 drive highest sales year 2023.
     2.   Here Febuary emerges as top sales in Q1 in year 2023.
     3.   Here Q2 has the lowest sales of about 7,425 and it requires attention due to findings.
     4.   Seasonal fluctuations impact Q4 sales.
  
-  ### Average Sales Per Product
+ ### Average Sales Per Product
+  ---
    - Shirt:  Has the hightest sales of about 327%
    - Shoes: Here has the second highest sales of 309% margin
    - Gloves:Here gloves sales shows strong growth potential.
    3. Here Product hat sales requires attention due to declining sales.
    4. Jacket: Has average of 140% as the second lowest according to finding, needs due attention.   
-   5. Stocks: Has the lowest average sales and it requires improvement.
-     
- 
-  
----
-  ### IN 2024
+   5. Stocks: Has the lowest average sales and it requires improvement. 
 
+### IN 2024 
   ---
     1.    Consistent YoY growth in February 2023 with the value points of 247,500 and 2024 sales increase with the value of 298,800 and it remains the top sales.
     2.   There are tremendoeus decline sales in May, June, July and April which requires urgent attention.
     3.   Here Q3 has the lowest sales of about 37,200 as against year 2023 which has a value point of about 237,600 and this requires urgent attention due to findings.
-
-
-
- ### Tota sales (Revenue) by Region
- 
+    
+### Tota sales (Revenue) by Region
+ ---
  <img width="960" alt="image" src="https://github.com/user-attachments/assets/cd21a220-24f8-41ee-ba1f-446643a3841b">
- 
  ---
  - South: This region generated thee highest sales with 44% 
  - East region: This region has the second highest revenue of 23% growth
  - North region: Here in this region has decrease of 19% growth market sales.
  - West region: The revenue  generation in the west region has the lowest sales in the geographical region. 
  
- 
-
 ### Deduction
 
----
 ### Total Sales Trajectory:
 
 ---
