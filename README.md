@@ -10,13 +10,13 @@ I am an aspiring business analyst, actively engaged in professional development 
 -Perform an initial exploration of the sales data
 
 ---
-[project overview]
-[Objective]
-[Data Sources]
-[Metrics of Focus]
-[Tools Used]
-  
-[Data visualisation]
+[CAPSTONE PROJECT OVERVIEW](#capstone-project-overview)
+[PROJECT OBJECTIVE](#project-Objective)
+[PROJECT 1 SALES PERFORMANCE ANALYSIS FOR A RETAIL STORE USING EXCEL](#project-1-sales-performance-analysis-for-a-retail-store-using-excel)
+[DATA SOURCES](#Data-Sources)
+[METRICS OF FOCUS](#metrics-of-Focus)
+[TOOLS USED](#tools-Used)
+[DATA VISUALIATION](#data_visualisation)
 
 
 ### project overview
@@ -85,7 +85,7 @@ EDA includes exploring the data to respond to some questions about the data such
   ### DATA VISUALIZATION
 
   ---
-
+  These includes the following:
  ### Tota sales by Product
 
 ---
@@ -231,16 +231,75 @@ The Total sales data suggests that the organization experiences its strongest pe
 
 ### 2B SQL Write queries to extract key insights based on the following questions.
 
-[Data Sources] 
-[Metrics of Focu]
-[Tools]
-[Data Visualisation]
+
+[CAPSTONE PROJECT OVERVIEW](#capstone-project-overview)
+[PROJECT OBJECTIVE](#project-Objective)
+[PROJECT 1B SALES PERFORMANCE ANALYSIS FOR A RETAIL STORE USING EXCEL](#project-1-sales-performance-analysis-for-a-retail-store-using-SQL)
+[DATA SOURCES](#Data-Sources)
+[METRICS OF FOCUS](#metrics-of-Focus)
+[TOOLS USED](#tools-Used)
+[DATA VISUALIATION](#data_visualisation) 
+
+### Data Sources
+
+---
+- SQL: Structured Query Language databases.
+- Datasets CSV: Comma-separated values files.
+
+### Dataset (CSV file)
+This here we have cleaned datasets used for the queries
+
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/1625a066-d77a-481e-b12a-e345c7e319a1">
+
+
+### Sales For Each Product Category
+---
+![Sales Product retrieved](https://github.com/user-attachments/assets/4bf2e482-8b38-4884-a28d-b332dcd658b9)
+
+### Sales Transactions In Each Region
+
+---
+![Region transaction](https://github.com/user-attachments/assets/09389795-4fd3-469f-847e-345c07d99061)
+
+### Highest-Selling Product By Total Sales Value
+
+---
+![Highest sales](https://github.com/user-attachments/assets/3f4a568e-9ed8-4eac-92c7-2f4138d5f379) 
+
+### Total Revenue Per Product
+---
+<img width="960" alt="Total revenue per product" src="https://github.com/user-attachments/assets/2dacf499-746f-4683-95b8-3ef10c03690f">
+
+### Monthly Sales Totals For The Current Year
+
+---
+<img width="960" alt="Monthly sales 4 current yr 1" src="https://github.com/user-attachments/assets/4ccf3b9c-e99b-4713-9b39-dd23887e2d86">
+
+### Top 5 Customers By Total Purchase Amount
+---
+<img width="960" alt="Top 5 customer purchase" src="https://github.com/user-attachments/assets/5718964f-0427-4bf4-aa39-e7c62c0d3597">
+
+### Percentage Of Total Sales Contributed By Each Region
+---
+<img width="960" alt="Each Region Sales %" src="https://github.com/user-attachments/assets/ca53e3ea-129c-4db2-b147-d419bb0f68ee">
+
+### Products With No Sales In The Last Quarter
 
 
 
- 16.  CSV: Comma-separated values files.
-  17.  Excel: Microsoft Excel spreadsheets.
-  18.  SQL: Structured Query Language databases.
+
+
+
+
+
+
+
+
+
+
+
+
+
   19.  Power Bi 
 
 
