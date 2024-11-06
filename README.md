@@ -255,10 +255,12 @@ The above analysis shows that shoes has the highest sales, seconded by jacket wh
 ---
 Here is the calculated monthly sales totals for the current year 2024 sales trends with the execution of successful committed rows the exceution of 8rows.
 
-- 1. Queries peak in Feburary 2024 as the highest sales of the month. (298,800).
+   1.    Queries peak in Feburary 2024 as the highest sales of the month. (298,800).
 2. Sales-related queries peak in  and March and May (54,780 and 44,640).
 3. Product information queries increase in June and August(148,200 and 174300).
-4. Customer support queries decrease in July and March
+4. Customer support queries decrease in July and April (37,200 and 39,440)
+ - In summary the best montly sales is February and January, peak inMarch and May, increase in June and August while July and March has the weakest 
+ monthly sales for the year 2024.
 
 <img width="960" alt="Monthly sales 4 current yr 1" src="https://github.com/user-attachments/assets/4ccf3b9c-e99b-4713-9b39-dd23887e2d86">
 
