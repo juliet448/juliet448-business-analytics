@@ -173,17 +173,10 @@ This graph shows a steady decline in products across sales. The trajectory highl
 
 ### Conclusion
 ---
-The Total sales data suggests that the organization experiences its strongest performance in the South, with diminishing results as it moves to the East, North , and finally, West Central. The trajectory highlights a clear disparity in regional revenue generation, with significant opportunities for improvement in lower-performing regions like North and West Central . It highlights geographical disparities in revenue generation, possibly due to market size, customer demand, or regional business strategies.
-
-
-### SALES BY REGION
-
----
-<img width="960" alt="image" src="https://github.com/user-attachments/assets/c703b17b-4fef-4a6d-970e-b688b5a5a155"> 
+The Total sales data suggests that the organization experiences its strongest performance in the South, with diminishing results as it moves to the East, North , and finally, West Central. The trajectory highlights a clear disparity in regional revenue generation, with significant opportunities for improvement in lower-performing regions like North and West Central. It highlights geographical disparities in revenue generation, possibly due to market size, customer demand, or regional business strategies.
 
 ### 2B SQL Write queries to extract key insights based on the following questions.
-
-
+---
 [CAPSTONE PROJECT OVERVIEW](#capstone-project-overview)
 [PROJECT OBJECTIVE](#project-Objective)
 [PROJECT 1B SALES PERFORMANCE ANALYSIS FOR A RETAIL STORE USING EXCEL](#project-1-sales-performance-analysis-for-a-retail-store-using-SQL)
@@ -231,7 +224,7 @@ From the execution carriedout in the retrieval of total sales transaction in eac
 ### Highest-Selling Product Total Sales Value
 
 ---
-The execution of Product Total Sales Value carriedout in the retrieval of sales transaction ascertain the highest sales are as follows:
+The execution of Product Total Sales Value carriedout in the current year to ascertain the highest sales are as follows:
 shoes:successful sales of 613380 as the highest sales
      1.   shoes:successful sales of 613380 as the highest sales 
      2.   Shirt: second highest with revenue sales of 485600
@@ -240,15 +233,33 @@ shoes:successful sales of 613380 as the highest sales
      5.   Jacket: There is a decrease in revenue value with the value of 208230
      5.   Socks: Decrease in total revenue with value point of 180785 compare to shoes which has the highest sales of 613380.
 -Summary of Product value analysis shows that shoes has the highest sales, seconded by shirt which is the second hightest, and Hat as a potential strong growth revenue, there are decreasing sales in gloves, jacket and stocks been the lowest revenue value. It could be due to unevenly distribution of goods, marketing strategy or region. This requires urgent intervention for improvements.
+
 ![Highest sales](https://github.com/user-attachments/assets/3f4a568e-9ed8-4eac-92c7-2f4138d5f379) 
 
 ### Total Revenue Per Product
----
+--- 
+- From the successul execution carriedout with committed rows of 6 of total revenue per sales, analysis are as follows: 
+      1.   Shoes: This product has the highest product sales revenue with values point of 613380.
+     2.   Jacket: second highest with total sale of 208230
+     3.   Hat: Here hat made sales of 316195, though shows strong growth potential.
+     4.   Stocks: Here stocks sales of 180785, there is a decrease in hat sales which requires due attention for improvement due to findings.
+     5.   Shirt: Sales decrease  485600 value compare to shoes which has the highest sales value point of 6133380.
+     6.   Gloves: Glove has the lowest sales of 296900 and it requires urgent improvement.
+- Summary of revenue per sales in product category.
+The above analysis shows that shoes has the highest sales, seconded by jacket which is the second hightest, and Hat as a potential strong growth sales, there are decreasing sales in socks, shirt and gloves been the lowest sales. It could be due to unevenly distribution of goods, marketing or region. This requires urgent intervention for improvements.
+
 <img width="960" alt="Total revenue per product" src="https://github.com/user-attachments/assets/2dacf499-746f-4683-95b8-3ef10c03690f">
 
 ### Monthly Sales Totals For The Current Year
 
 ---
+Here is the calculated monthly sales totals for the current year 2024 sales trends with the execution of successful committed rows the exceution of 8rows.
+
+- 1. Queries peak in Feburary 2024 as the highest sales of the month. (298,800).
+2. Sales-related queries peak in  and March and May (54,780 and 44,640).
+3. Product information queries increase in June and August(148,200 and 174300).
+4. Customer support queries decrease in July and March
+
 <img width="960" alt="Monthly sales 4 current yr 1" src="https://github.com/user-attachments/assets/4ccf3b9c-e99b-4713-9b39-dd23887e2d86">
 
 ### Top 5 Customers By Total Purchase Amount
