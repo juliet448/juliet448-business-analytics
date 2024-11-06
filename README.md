@@ -62,7 +62,28 @@ Tools Use
 Microsoft Excel:
 - Formulas and Function: This was used to calculate performance, and automate processses e.g filtering and sorting
 - Pivot Table: This is grouping data and analysing and generating informed insights according to product, revenur by region, sales and transaction categories
-- Data Visualisation: This is using dataset creating visual trends, key insight and comparison .
+- Data Visualisation: This is using dataset creating visual trends, key insight and comparison.
+
+### Exploratory Data Analysis
+
+---
+EDA includes exploring the data to respond to some questions about the data such as;
+
+- What is the overall revenue for each region?
+
+- What are the models for peak sales?
+
+- Which store has the lowest unit?
+
+  ### DATA VISUALIZATION
+
+  ---
+
+ ### Tota sales by Region
+ <img width="960" alt="Each Region Sales %" src="https://github.com/user-attachments/assets/ad331dea-97a6-472a-adcd-1ce60d74fe54">
+ 
+
+  
 
 
   
