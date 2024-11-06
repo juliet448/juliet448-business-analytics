@@ -124,11 +124,11 @@ I am an aspiring business analyst, actively engaged in professional development 
  
  ### Average Sales Per Product
   ---
-   - Shirt:  Has the hightest sales of about 327%
-   - Shoes: Here has the second highest sales of 309% margin
-   - Gloves:Here gloves sales shows strong growth potential.
-   3. Here Product hat sales requires attention due to declining sales.
-   4. Jacket: Has average of 140% as the second lowest according to finding, needs due attention.   
+   1 Shirt:  Has the hightest sales of about 327%
+   2 Shoes: Here has the second highest sales of 309% margin
+   3 Gloves:Here gloves sales shows strong growth potential.
+   4. Here Product hat sales requires attention due to declining sales.
+   5. Jacket: Has average of 140% as the second lowest according to finding, needs due attention.   
    5. Stocks: Has the lowest average sales and it requires improvement. 
 
 ### IN 2024 
@@ -199,23 +199,47 @@ The Total sales data suggests that the organization experiences its strongest pe
 - Datasets CSV: Comma-separated values files.
 
 ### Dataset (CSV file)
-This here we have cleaned datasets used for the queries
 
-<img width="960" alt="image" src="https://github.com/user-attachments/assets/1625a066-d77a-481e-b12a-e345c7e319a1">
-
+- Here we have datasets used for the queries
 
 ### Sales For Each Product Category
+---
+- These query was executed successfully with 6 rows committed, here are the analysis of product category through each sales.
+     1.   shoes:successful sales of 613380 as the highest sales
+     2.   Jacket: second highest with total sale of 208230
+     3.   Hat: Here hat made sales of 316195, though shows strong growth potential.
+     4.   Stocks: Here stocks sales of 180785, there is a decrease in hat sales which requires due attention for improvement due to findings.
+     5.   Shirt: Sales decrease compare to shoes which has the highest sales.
+     6.   Gloves: Glove has the lowest sales of 296900 and it requires urgent improvement.
+- Summary of retrieved sales in product category.
+The above analysis shows that shoes has the highest sales, seconded by jacket which is the second hightest, and Hat as a potential strong growth sales, there are decreasing sales in socks, shirt and gloves been the lowest sales. It could be due to unevenly distribution of goods, marketing or region. This requires urgent intervention for improvements.
 ---
 ![Sales Product retrieved](https://github.com/user-attachments/assets/4bf2e482-8b38-4884-a28d-b332dcd658b9)
 
 ### Sales Transactions In Each Region
 
 ---
+From the execution carriedout in the retrieval of total sales transaction in each region we have
+- North central: Had total sales transaction of 2481 and the is the highest
+- East: Had total sales of 4859 transaction as the second highest and a potential growth region.
+- South: This region transacted total of 2480 as a decrease in sales transaction during this period, this calls for strategic improvement.
+- West: This region has the lowest sales transaction
+- In summary North and  East central have potential growth transaction while south and West central there is a declining sales transaction as west has the lowest transaction. This needs due attention for improvement.
+
 ![Region transaction](https://github.com/user-attachments/assets/09389795-4fd3-469f-847e-345c07d99061)
 
-### Highest-Selling Product By Total Sales Value
+### Highest-Selling Product Total Sales Value
 
 ---
+The execution of Product Total Sales Value carriedout in the retrieval of sales transaction ascertain the highest sales are as follows:
+shoes:successful sales of 613380 as the highest sales
+     1.   shoes:successful sales of 613380 as the highest sales 
+     2.   Shirt: second highest with revenue sales of 485600
+     3.   Hat: Here hat made total revenue of 316195, though shows strong growth potential.
+     4.   Gloves: Here stocks sales of 296900, there is a decrease in hat sales which requires due attention for improvement due to findings. 
+     5.   Jacket: There is a decrease in revenue value with the value of 208230
+     5.   Socks: Decrease in total revenue with value point of 180785 compare to shoes which has the highest sales of 613380.
+-Summary of Product value analysis shows that shoes has the highest sales, seconded by shirt which is the second hightest, and Hat as a potential strong growth revenue, there are decreasing sales in gloves, jacket and stocks been the lowest revenue value. It could be due to unevenly distribution of goods, marketing strategy or region. This requires urgent intervention for improvements.
 ![Highest sales](https://github.com/user-attachments/assets/3f4a568e-9ed8-4eac-92c7-2f4138d5f379) 
 
 ### Total Revenue Per Product
@@ -252,7 +276,10 @@ This here we have cleaned datasets used for the queries
 
 
 
-  19.  Power Bi 
+    Power Bi
+    ### SALES PERFORMANCE SERVICES
+    <img width="960" alt="Sales Performance Visualisation power Bi" src="https://github.com/user-attachments/assets/98a041d9-4f40-4ea5-9325-31a846108483">
+
 
 
 
