@@ -4,7 +4,10 @@
 I am an aspiring business analyst, actively engaged in professional development with an incubator hub. This experience has enhanced my skills in data analysis, manipulation and visualization. Tasked with analyzing sales performance, market research and trends with hands-on projects, extracting insights from data to drive informed business decision-making and business growth. 
 
 
-### ProjectTittle: Sales Performance Analysis for a Retail Store
+###  Project Tittle: Sales Performance Analysis for a Retail Store
+
+---
+-Perform an initial exploration of the sales data
 
 ---
 [project overview]
@@ -45,15 +48,7 @@ I am an aspiring business analyst, actively engaged in professional development 
     5.  Total revenue by region: This indicate the quantity of products sold, trends, competitor analysis, and market size estimates to specific group within a widerscope region that captures various areas, economic conditions and total income generated from sales transactions to analyze sales performance.
 
 
- 
-      
-  16.  CSV: Comma-separated values files.
-  17.  Excel: Microsoft Excel spreadsheets.
-  18.  SQL: Structured Query Language databases.
-  19.  Power Bi 
-
-
-- The above detailed dataset collection of sales Performance Aaalysis for a retail store, provided informed insight of customer behaviour and sales performance.
+- The above detailed dataset collection of sales Performance Analysis for a retail store, provided informed insight of customer behaviour and sales performance.
 
 ### Metrics of Focus
 ---
@@ -100,7 +95,7 @@ EDA includes exploring the data to respond to some questions about the data such
 ---
    1. Here Product of shoes and shirt sales shows drive majority of sales.
    2. Here Product of Hat and Gloves sales shows strong growth potential.
-   3.Here Product Jacket and Stocks sales requires attention due to declining sales.
+   3. Here Product Jacket and Stocks sales requires attention due to declining sales.
 
 ### Total sales by Region
  ---
@@ -145,7 +140,6 @@ EDA includes exploring the data to respond to some questions about the data such
 
 ---
 
-
 <img width="960" alt="image" src="https://github.com/user-attachments/assets/43a3dcba-67c3-4e12-bb75-ffaa93a4f283">
 
 ### Total Revenue by Region.
@@ -159,7 +153,6 @@ EDA includes exploring the data to respond to some questions about the data such
 <img width="960" alt="image" src="https://github.com/user-attachments/assets/0fa4509b-c020-4ea2-81e9-81d2a65982a2">
 
 ----
-
 ### Summary of sales by Month
 
 - 
@@ -167,6 +160,15 @@ EDA includes exploring the data to respond to some questions about the data such
     2.   Here Febuary emerges as top sales in Q1 in year 2023.
     3.   Here Q2 has the lowest sales of about 7,425 and it requires attention due to findings.
     4.   Seasonal fluctuations impact Q4 sales.
+ 
+  ### Average Sales Per Product
+   - Shirt:  Has the hightest sales of about 327%
+   - Shoes: Here has the second highest sales of 309% margin
+   - Gloves:Here gloves sales shows strong growth potential.
+   3. Here Product hat sales requires attention due to declining sales.
+   4. Jacket: Has average of 140% as the second lowest according to finding, needs due attention.   
+   5. Stocks: Has the lowest average sales and it requires improvement.
+     
  
   
 ---
@@ -179,9 +181,16 @@ EDA includes exploring the data to respond to some questions about the data such
 
 
 
- ### Tota sales by Region
+ ### Tota sales (Revenue) by Region
+ 
+ <img width="960" alt="image" src="https://github.com/user-attachments/assets/cd21a220-24f8-41ee-ba1f-446643a3841b">
  
  ---
+ - South: This region generated thee highest sales with 44% 
+ - East region: This region has the second highest revenue of 23% growth
+ - North region: Here in this region has decrease of 19% growth market sales.
+ - West region: The revenue  generation in the west region has the lowest sales in the geographical region. 
+ 
  
 
 ### Deduction
@@ -195,29 +204,46 @@ EDA includes exploring the data to respond to some questions about the data such
 - 
 ### Total Sales Performance:
 ---
-- Shoes Sales: The chart shows that the shoes sales generates the highest revenue, significantly outperforming other products. This suggests a strong market presence, high customer demand, or effective business operations in this product.
+- Shoes Sales: The chart shows that the shoes sales generates the highest revenue, significantly outperforming other products. This suggests a strong market presence, high customer demand, or effective business operations in this product with average of 309% grothw.
   
-- Shirt Sales: The chart displays that shirt is the second-highest sales. It shows solid performance, though not as strong as shoes, indicating a relatively healthy market.
+- Shirt Sales: The chart displays that shirt is the second-highest sales. It shows solid performance, though not as strong as shoes, indicating a relatively healthy market. In region whic is south it appears to be the second, it has been the most popular product in sales category and highest average of 327% product sales though remains the second highest is total sales. 
   
-- Hat: From the findings hat contributes significantly but could offer potential for further growth. It reflects as a threat of a downward trend sales in product categories.
+- Hat: From the findings hat contributes significantly but could offer potential for further growth. It reflects as a threat of a downward trend sales in product categories with average of 150% growth.
   
-- Gloves:  There is indication of a decline compared to the top-performing sales. The golves product may have untapped market potential or need targeted strategies to boost performance.
-- Jacket: This shows a considerable drop from the other sales. It represents an underperforming area that could benefit from increased focus and investment.
-- Socks: This product appears to have the lowest market presence, making it a prime candidate for strategic improvements and market development.
+- Gloves:  There is indication of a decline compared to the top-performing sales with 200% growth. The golves product may have untapped market potential or need targeted strategies to boost performance.
+- Jacket: This shows a considerable drop from the other sales with 140% growth. It represents an underperforming area that could benefit from increased focus and investment.
+- Socks: This product appears to have the lowest market presence, making it a prime candidate for strategic improvements and market development with 122% growth sales.
 
 ### Product Allocation:
 ---
 The important difference in product across sales suggests that sales, such as product, marketing, or operational efforts, might be unevenly distributed. The company could focus on optimizing sales in Socks, Jackets, and gloves to drive sales growth
 This graph shows a steady decline in products across sales. The trajectory highlights a clear disparity in regional revenue generation, with significant opportunities for improvement in the lower-performing aproducts e.g gloves,jackets and stocks. 
 
+### Conclusion
+---
+The Total sales data suggests that the organization experiences its strongest performance in the South, with diminishing results as it moves to the East, North , and finally, West Central. The trajectory highlights a clear disparity in regional revenue generation, with significant opportunities for improvement in lower-performing regions like North and West Central . It highlights geographical disparities in revenue generation, possibly due to market size, customer demand, or regional business strategies.
 
-Regional Performance:
-North East: The chart shows that the North East region generates the highest revenue, significantly outperforming other region. This suggests a strong market presence, high customer demand, or effective business operations in this area.
-South West: The second-highest revenue generator. It shows solid performance, though not as strong as North East, indicating a relatively healthy market.
-South-South: This region still contributes significantly but could offer potential for further growth. It reflects the start of a downward trend in revenue across regions.
-South-East: indicating a decline compared to the top-performing regions. The region may have untapped market potential or need targeted strategies to boost performance.
-North-West: This shows a considerable drop from the other regions. It represents an underperforming area that could benefit from increased focus and investment.
-North-Central: This region appears to have the weakest market presence, making it a prime candidate for strategic improvements and market development.
+
+### SALES BY REGION
+
+---
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/c703b17b-4fef-4a6d-970e-b688b5a5a155"> 
+
+### 2B SQL Write queries to extract key insights based on the following questions.
+
+[Data Sources] 
+[Metrics of Focu]
+[Tools]
+[Data Visualisation]
+
+
+
+ 16.  CSV: Comma-separated values files.
+  17.  Excel: Microsoft Excel spreadsheets.
+  18.  SQL: Structured Query Language databases.
+  19.  Power Bi 
+
+
 
  
 
