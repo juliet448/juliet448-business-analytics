@@ -38,30 +38,19 @@ I am an aspiring business analyst, actively engaged in professional development 
 ---
 - Datasets sources contains the following such as:
   
-- --Sum of total sales by product
-- Sum of total sales by region
-- Sum of total sales by month
-- Average sales per product
-- Total revenue by region.
      1.   Total sales by product: This indentifies the quantity of products sold during a specific. The most selling products that shows drive majority of sales, strong growth potentials and a declining sales that requires attention due.
      2.   Total sales by region: This represents the geographical areas where stores are situated, Summarising the quantity of products sold and total income generated from sales transactions, highest generating revenue in the regions and a declining sales in the region.
-  3. Total sales by month
-     
-     
-   5.  These refers to trends, competitor analysis, and market size estimates to specific group within a widerscope region that capture various location and economic conditions.
-   6.  Store: These refer to individual retail locations or outlets.
-   7.  Transaction Category: This indicate sales transactions into various types to analyze customer behavior and sales performance.
-   8.  customerid: This indicates the specific date transactions was made.
-   9.  Model: This refers to the specific type or brand of a product offered for sale.
-   10.  Quantity: This represents the amount of products or services or are in demand.
-   11.  OrderDate: This represents the specific days of the week transactions occur/was made.
-   12.  Category: This classifies products based on functions.
-  13.  Revenue: refers to the total income generated from sales transactions.
-  14.  Units Sold: This indentifies the quantity of products sold during a specific period.
-  15.  CSV: Comma-separated values files.
-  16.  Excel: Microsoft Excel spreadsheets.
-  17.  SQL: Structured Query Language databases.
-  18.  Power Bi 
+    3.  Total sales by month: Acurrately analysing sales transactions from January to December, identifying potential month sales and declining months sales for improvement.
+    4.  Average sales per product: Analysing the average annual sales of products to acertain the most majority sales and identifying ares of improvement to be focus on.
+    5.  Total revenue by region: This indicate the quantity of products sold, trends, competitor analysis, and market size estimates to specific group within a widerscope region that captures various areas, economic conditions and total income generated from sales transactions to analyze sales performance.
+
+
+ 
+      
+  16.  CSV: Comma-separated values files.
+  17.  Excel: Microsoft Excel spreadsheets.
+  18.  SQL: Structured Query Language databases.
+  19.  Power Bi 
 
 
 - The above detailed dataset collection of sales Performance Aaalysis for a retail store, provided informed insight of customer behaviour and sales performance.
@@ -82,9 +71,9 @@ I am an aspiring business analyst, actively engaged in professional development 
 ---
 # Microsoft Excel:
 
-- Formulas and Function: This was used to calculate performance, and automate processses e.g filtering and sorting
-- Pivot Table: This is grouping data and analysing and generating informed insights according to product, revenur by region, sales and transaction categories
-- Data Visualisation: This is using dataset creating visual trends, key insight and comparison.
+- Formulas and Function: This was used to calculate performance, and automate processses e.g filtering and sorting =SUMIF(D:D,D2,H1:H9922)
+- Pivot Table: This is grouping data, analysing and generating informed insights e.g sales by product, revenur by region, sales by month to enhance informed decision making.
+- Data Visualisation: This is using dataset to create visual trends, key insight and comparison.
 
 
 ### Exploratory Data Analysis
@@ -93,9 +82,9 @@ EDA includes exploring the data to respond to some questions about the data such
 
 - What is the overall revenue for each region?
 
-- What are the models for peak sales?
+- Which of the month has year over year growth?
 
-- Which store has the lowest unit?
+- Which product has the lowest sales?
 
 
   ### DATA VISUALIZATION
@@ -152,10 +141,26 @@ EDA includes exploring the data to respond to some questions about the data such
   
 <img width="960" alt="image" src="https://github.com/user-attachments/assets/503c5961-ac11-448d-b452-62691761acfa">
 
+### Average Sales Per Product.
+
+---
+
+
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/43a3dcba-67c3-4e12-bb75-ffaa93a4f283">
+
+### Total Revenue by Region.
 
 ----
 
-- Summary of sales by Month
+<img width="960" alt="Average, region revenue by revenue" src="https://github.com/user-attachments/assets/2a7001d5-d537-4405-84b3-7b69b8ba6f33">
+
+### Top 3 Region Sales
+
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/0fa4509b-c020-4ea2-81e9-81d2a65982a2">
+
+----
+
+### Summary of sales by Month
 
 - 
     1.   Q1, Q3 and Q4 drive highest sales year 2023.
