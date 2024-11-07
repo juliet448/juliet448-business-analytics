@@ -185,25 +185,53 @@ The Total sales data suggests that the organization experiences its strongest pe
 [TOOLS USED](#tools-Used)
 [DATA VISUALIATION](#data_visualisation) 
 
+### PROJECT OBJECTIVE
+
+---
+
+
 ### Data Sources
 
 ---
-- SQL: Structured Query Language databases.
-- Datasets CSV: Comma-separated values files.
+The data sources are as folows:
+   1.  Customer_Id: This is a unique identifier of a particular customer
+   2.   Total_sales: This shows total revenue generated from sales e.g (Quantity * unit per price)
+   3.   No_Transaction: This is the frequency of transaction carriedout
+   4.   Monthly_sales: This shows total revenue generated in each product for the month.
+   5.   Quanty: This shows the number of unit sold
+   6.   Product: This shows the different types of product sold 
+   7.   Region: This shows geographical locations e.g North and south central.
+These datasets collectively gives complete view of market dynamics, sales performance, customer purchasing behaviour to informed meaningful decision making.
 
-### Dataset (CSV file)
+### Dataset
+Here is the datasets used
+<img width="960" alt="SQL DATASETS" src="https://github.com/user-attachments/assets/74ccb5ff-09cb-476d-8786-fe26085082e1">
 
-- Here we have datasets used for the queries
+### Tools Used
+
+- SQL MANAGEMENT STUDIO
+
+### Exploratory Data Analysis
+---
+EDA involves exploring the data to give answer to some question about data e.g:
+- Retrieve the total sales for each product category.
+- Identify the number of sales transactions in each region.
+- Identify the highest-selling product by total sales value.
+- calculate total revenue per product.
+- calculate monthly sales totals for the current year.
+- Identify the top 5 customers by total purchase amount.
+- calculate the percentage of total sales contributed by each region.
+- identify products with no sales in the last quarter.
 
 ### Sales For Each Product Category
 ---
 - These query was executed successfully with 6 rows committed, here are the analysis of product category through each sales.
-     1.   shoes:successful sales of 613380 as the highest sales
-     2.   Jacket: second highest with total sale of 208230
-     3.   Hat: Here hat made sales of 316195, though shows strong growth potential.
-     4.   Stocks: Here stocks sales of 180785, there is a decrease in hat sales which requires due attention for improvement due to findings.
-     5.   Shirt: Sales decrease compare to shoes which has the highest sales.
-     6.   Gloves: Glove has the lowest sales of 296900 and it requires urgent improvement.
+     1.     shoes:successful sales of 613380 as the highest sales
+     2.     Jacket: second highest with total sale of 208230
+     3.     Hat: Here hat made sales of 316195, though shows strong growth potential.
+     4.     Stocks: Here stocks sales of 180785, there is a decrease in hat sales which requires due attention for improvement due to findings.
+     5.     Shirt: Sales decrease compare to shoes which has the highest sales.
+     6.     Gloves: Glove has the lowest sales of 296900 and it requires urgent improvement.
 - Summary of retrieved sales in product category.
 The above analysis shows that shoes has the highest sales, seconded by jacket which is the second hightest, and Hat as a potential strong growth sales, there are decreasing sales in socks, shirt and gloves been the lowest sales. It could be due to unevenly distribution of goods, marketing or region. This requires urgent intervention for improvements.
 ---
@@ -250,34 +278,71 @@ The above analysis shows that shoes has the highest sales, seconded by jacket wh
 
 <img width="960" alt="Total revenue per product" src="https://github.com/user-attachments/assets/2dacf499-746f-4683-95b8-3ef10c03690f">
 
-### Monthly Sales Totals For The Current Year
+### Monthly Query Report summary
 
 ---
 Here is the calculated monthly sales totals for the current year 2024 sales trends with the execution of successful committed rows the exceution of 8rows.
 
    1.    Queries peak in Feburary 2024 as the highest sales of the month. (298,800).
-2. Sales-related queries peak in  and March and May (54,780 and 44,640).
-3. Product information queries increase in June and August(148,200 and 174300).
-4. Customer support queries decrease in July and April (37,200 and 39,440)
- - In summary the best montly sales is February and January, peak inMarch and May, increase in June and August while July and March has the weakest 
- monthly sales for the year 2024.
+   2. January is the second to the highest sales of the month (198,400)
+3. Sales-related queries peak in March and May (54,780 and 44,640).
+4. Product information queries increase in August and June (174300 and 148,200).
+5. Customer support queries decrease in April and July (39,440 and37,200)
 
+ - In summary the best montly sales is February and January, peak in March and May, increase product information in August and June should be enhance, while July and April has the weakest monthly sales as a result of this increase customer support staff and analyze customer support queries every end of the year.
+   
 <img width="960" alt="Monthly sales 4 current yr 1" src="https://github.com/user-attachments/assets/4ccf3b9c-e99b-4713-9b39-dd23887e2d86">
 
 ### Top 5 Customers By Total Purchase Amount
 ---
+Here are Top 5 customer purchase
+       1.   Customer with I.D number Cus1431 has the total purchase amount of 4,235 of the total sales.
+       2.   Customer with I.D number Cus1495 purchased 4235 amount of the total sales.
+       3.   Customer with I.D number Cus1005 purchased 4235 amount of total sales
+       4.   Customer with I.D number Cus1115 purchased 4235 amount of total sales
+       5.   Customer with I.D number Cus1302 purchased 4235 amount of sales. 
+       - summary above is the analysis of customer purchasing behavior which shows that 5 customers with different I.D numbers purchased same amount (4235) and these are the top 5 customer purchase.
+
+### Recommendations:
+- Customers should be of exclusive discount.
+- Exclusive discount will attract more customer for cross-selling.
+- Ensure customer 80% satisfaction
+- Monitor purchasing progress for customer rention.
+
+---
 <img width="960" alt="Top 5 customer purchase" src="https://github.com/user-attachments/assets/5718964f-0427-4bf4-aa39-e7c62c0d3597">
 
-### Percentage Of Total Sales Contributed By Each Region
+### Regional Sales Contribution Report
 ---
+- South: Largest regional sales contributor (44.%).
+- East: Growing regional sales (23.13%).
+- North: Opportunities for growth (18.%).
+- West: Emerging market (14.0%).
+  
+### Recommendations:
+      1.  Continue to invest in marketing and concentrate on sales efforts in North region
+      2. In east region, Increase sales teams and develop strategies to maintain marketing initiative to ensure growth.
+     3.   Identify growth opprtunity for developmet in north central for expansion.
+     4.  Ensure adjustment of strategies as the west central emerge market and monitor growth.
+
 <img width="960" alt="Each Region Sales %" src="https://github.com/user-attachments/assets/ca53e3ea-129c-4db2-b147-d419bb0f68ee">
 
-### Products With No Sales In The Last Quarter
+![Product with no Sales](https://github.com/user-attachments/assets/4ee2f05e-b9c1-4dae-99a6-2bfba74e0537)
+
+### Products With No Growth Report
+
+--
+All product appears to be active as a result, no products found with zero growth.
 
 
+### RECOMMENDATION
 
+---
+- Loyalty programs should be given to top customers. Identify opportunities for cross-selling through customer purchasing behaviour. ensure satisfaction and monitor customer rention.
 
+Report Date: [6/11/2024]
 
+Database: [SQL]
 
 
 
