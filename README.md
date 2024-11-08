@@ -11,8 +11,6 @@ In this project we will be working on dervse of data, unclean and cleaned data, 
 
 Lastly, we will be using power BI to create interactive visualisations and dashboards to present our findings in a user-friendly pattern. This capstone project undertakes a comprehensive examination of data analysis and visualization methodologies utilizing Power BI, a leading business analytics platform. The primary objective of this project is to demonstrate expertise in data modeling, dashboard creation, and predictive analytics, thereby informing strategic business decisions.
 
-
-
 ###  PROJECT TITTLE: COMPREHENSIVE DATA ANALYSIS USING EXCEL, SQL AND POWER BI INTERGRATION
 ---
 [CAPSTONE PROJECT OVERVIEW](#capstone-project-overview)
@@ -58,7 +56,7 @@ The Capstone Project encompasses a comprehensive data analytics initiative, empl
 
 ### EXPECTED OUTPUT
 ---
- This capstone project encompasses a thorough report and engaging interactive visualizations, presenting methodologies, key findings, and actionable recommendations. 
+This capstone project encompasses a thorough report and engaging interactive visualizations, presenting methodologies, key findings, and actionable recommendations. 
 
 Through hands-on experience with real-world data scenarios, participants develop expertise in data manipulation, analysis, and visualization using industry-leading tools, cultivating analytical skills and readiness for careers in data analysis and business intelligence.
 
@@ -244,12 +242,10 @@ For company to maintain consistency and accuracy in momentum east region perform
 ### Deduction
 
 ### Total Sales Trajectory:
-
 ---
 - Jacket Sales: This graph shows a steady decline in  of about 208, 230 against 2,101,090. The trajectory highlights a clear disparity in product sales generation, with significant opportunities for improvement in the lower-performing areas like stocks which has the lowest product sales with value point of 180,785 against total product sales of 2,101,090 value point.
 
-- 
-### Total Sales Performance:
+### Total SALES PERFORMANCE:
 ---
 - Shoes Sales: The chart shows that the shoes sales generates the highest revenue, significantly outperforming other products. This suggests a strong market presence, high customer demand, or effective business operations in this product with average of 309% grothw.
   
@@ -266,7 +262,7 @@ This graph shows a steady decline in products across sales. The trajectory highl
 
 ### Conclusion
 ---
-The Total sales data suggests that the organization experiences its strongest performance in the South, with diminishing results as it moves to the East, North , and finally, West Central. The trajectory highlights a clear disparity in regional revenue generation, with significant opportunities for improvement in lower-performing regions like North and West Central. It highlights geographical disparities in revenue generation, possibly due to market size, customer demand, or regional business strategies.
+The Total sales data findings shows that the organization experiences its strongest performance in the South, company is advised to expand sales in south and offer exclusive discount to activate more opportunies through promotion and campaign techniques and replicate to other regions. With diminishing results as it moves to the East, North , and finally, West Central. The trajectory highlights a clear disparity in regional revenue generation, with significant opportunities for improvement in lower-performing regions like North and West Central. It highlights geographical disparities in revenue generation as well possibly due to market size, customer demand, or regional business strategies or lack of manpower.
 
 Microsoft SQL Management Studion
 
@@ -275,8 +271,8 @@ Microsoft SQL Management Studion
 ### 2B Write queries to extract key insights based on the following questions.
 
 ### PROJECT GOALS
----
 
+---
 - To improve sales operations efficiency
 - To know the highest sales generating revenue in the regional central.
 - Enhance customer sactisfaction, loyalty and retention
@@ -377,7 +373,6 @@ The above analysis shows that shoes has the highest sales, seconded by jacket wh
 Summary
 ---
 Here is the calculated monthly sales totals for the current year 2024 sales trends with the execution of successful committed rows the exceution of 8rows.
-
 - Queries peak in Feburary 2024 as the highest sales of the month. (298,800).
 - January is the second to the highest sales of the month (198,400)
 - Sales-related queries peak in March and May (54,780 and 44,640).
@@ -395,8 +390,8 @@ Here are Top 5 customer purchase
 - Customer with I.D number Cus1495 purchased 4235 amount of the total sales.
 - Customer with I.D number Cus1005 purchased 4235 amount of total sales
 - Customer with I.D number Cus1115 purchased 4235 amount of total sales
-- Customer with I.D number Cus1302 purchased 4235 amount of sales. 
- Summary above is the analysis of customer purchasing behavior which shows that 5 customers with different I.D numbers purchased same amount (4235) and these are the top 5 customer purchase.
+- Customer with I.D number Cus1302 purchased 4235 amount of sales.
+Summary above is the analysis of customer purchasing behavior which shows that 5 customers with different I.D numbers purchased same amount (4235) and these are the top 5 customer purchase.
 
 ### Recommendations:
 - Customers should be of exclusive discount.
@@ -429,12 +424,16 @@ Here are Top 5 customer purchase
   
 ![Product with no Sales](https://github.com/user-attachments/assets/4ee2f05e-b9c1-4dae-99a6-2bfba74e0537)
 
-### RECOMMENDATION
+### IN CONCLUSION
+--- 
+From the analysis we were able to ascertain that some regions like south which had steady growth of year over year with the majority sales drives and some growth potential regions and products and months, but needs enhanced experience with developed strategies to implement techniques across other regions for maximum sales performance and
+some region  requires strategic attention to improve sales and exclusive sales discount programs could be organized for loyal top customers which could activate opportunities for cross-selling through customer purchasing behaviour ensure optimum customers sactisfaction and monitor customers rention to drive a meaningful insght for  informed decision-making for business intelligent. 
+
+### PROJECT 1C: SALES PERFORMANCE ANALYSIS FOR A RETAIL STORE USING POWER BI
 
 ---
-- Loyalty programs should be given to top customers. Identify opportunities for cross-selling through customer purchasing behaviour. ensure satisfaction and monitor customer rention.
+I am tasked to analyze sales performance retail store, i will be creating a dashbord to comprehensively interact  visualisation 
 
-### IN CONCLUSION
 
 
 
