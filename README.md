@@ -140,10 +140,7 @@ The company should provides exclusive discount in other to continue to maintain 
 The sales data shows that the South region leads with ₦927,820 in sales, accounting for 44% of the total sales. The East region follows with ₦485,925 (23% of total sales), while the North and West regions trail behind with ₦387,000 (18%) and ₦300,345 (14%) respectively. The South region is the strongest performer. The East region is a significant contributor to overall sales with a strong potential growth, while the North and West regions require improvement.
 The west region clearly shows that the west region low performance indicates that there's a need for strategic improvement while focusing on marketing efforts in the North and West regions, analyze customer preferences in the South and East regions and implement targeted strategies to boost sales in underperforming regions.
 
-Total Sales: ₦2,101,090.
-
-### TOTAL ANNUAL SALES
-
+### TOTAL ANNUAL  ANALYSIS
 ----
 - CHART FOR THE FOR MONTH SALES
 - --
@@ -202,14 +199,19 @@ From indications of analysis the  needs to focus on high-demanding items like sh
 ---
 The company could invest in South region's marketing and sales efforts to maintain momentum as the south region's strong performance drives overall revenue and analyzing the significant contributions indicate a potential for growth in East region's success factors and replicate in other regions. For the North and West regions require strategic attention to improve revenue and Develop targeted strategies,explore new markets and partnerships to boost revenue in North and West regions. Also ensure customer engaement and loyalty programs.
 
-### INTERESTING REPORTS
-
 ### TOP 3 REGION SALES REPORT
+
 <img width="960" alt="image" src="https://github.com/user-attachments/assets/0fa4509b-c020-4ea2-81e9-81d2a65982a2">
-
 ---
-### Summary of sales by Month
+- West region drives the majority of sales with 55%.
+- East region contributes significantly to overall sales with 34%.
+- North region requires strategic attention to improve sales performance though contributed with 11% sales growth.
 
+### IN CONCLUSION
+For company to maintain consistency and accuracy in momentum east region performance could be monitor and replicating west region succcess factor and strategies techniques in other regions and adjust strategies based on performance. 
+
+### Summary of sales by Month
+---
   - Q1, Q3 and Q4 drive highest sales year 2023.
   - Here Febuary emerges as top sales in Q1 in year 2023. -
   - Here Q2 has the lowest sales of about 7,425 and it requires attention due to findings.
@@ -266,30 +268,26 @@ This graph shows a steady decline in products across sales. The trajectory highl
 ---
 The Total sales data suggests that the organization experiences its strongest performance in the South, with diminishing results as it moves to the East, North , and finally, West Central. The trajectory highlights a clear disparity in regional revenue generation, with significant opportunities for improvement in lower-performing regions like North and West Central. It highlights geographical disparities in revenue generation, possibly due to market size, customer demand, or regional business strategies.
 
-### 2B SQL Write queries to extract key insights based on the following questions.
----
-[PROJECT OBJECTIVE](#project-Objective)
-[PROJECT 1B SALES PERFORMANCE ANALYSIS FOR A RETAIL STORE USING EXCEL](#project-1-sales-performance-analysis-for-a-retail-store-using-excel)
-[DATA SOURCES](#Data-Sources)
-[METRICS OF FOCUS](#metrics-of-Focus)
-[TOOLS USED](#tools-Used)
-[EXPLORATORY DATA](Exploratory-Data-Analysis)
-[DATA VISUALIATION](#data_visualisation)
+Microsoft SQL Management Studion
 
-### PROJECT OBJECTIVE
+### EXPLORATORY DATA ANALYSIS
 
+### 2B Write queries to extract key insights based on the following questions.
+
+### PROJECT GOALS
 ---
+
 - To improve sales operations efficiency
-- To know the highest sales generating revenue in the region sales.
+- To know the highest sales generating revenue in the regional central.
 - Enhance customer sactisfaction, loyalty and retention
 - To develop and implememnt effective inventory management
 - Achieve customer services
 - Understand customer purchasing behaviour and 
 
-### Data Sources
-
+### DATA SOURCES
 ---
-The data sources are as folows: 
+The data sources used are as follows:
+
 -Customer_Id: This is a unique identifier of a particular customer 
 - Total_sales: This shows total revenue generated from sales e.g (Quantity * unit per price)
 - No_Transaction: This is the frequency of transaction carriedout
@@ -301,7 +299,7 @@ These datasets collectively gives complete view of market dynamics, sales perfor
 
 ### Dataset
 
-Here is the datasets used
+Uploaded is the datasets Below:
 <img width="960" alt="SQL DATASETS" src="https://github.com/user-attachments/assets/74ccb5ff-09cb-476d-8786-fe26085082e1">
 
 ### Tools Used
@@ -309,7 +307,6 @@ Here is the datasets used
 - SQL MANAGEMENT STUDIO
 
 ### Exploratory Data Analysis
-
 ---
 EDA involves exploring the data to give answer to some question about data e.g:
 - Retrieve the total sales for each product category.
@@ -321,8 +318,9 @@ EDA involves exploring the data to give answer to some question about data e.g:
 - calculate the percentage of total sales contributed by each region.
 - identify products with no sales in the last quarter.
 
-### Sales For Each Product Category
+### QUERIES AND OUTPUT
 
+### Sales For Each Product Category
 --- 
 - These query was executed successfully with 6 rows committed, here are the analysis of product category through each sales.
 - shoes:successful sales of 613380 as the highest sales
@@ -337,7 +335,6 @@ The above analysis shows that shoes has the highest sales, seconded by jacket wh
 ![Sales Product retrieved](https://github.com/user-attachments/assets/4bf2e482-8b38-4884-a28d-b332dcd658b9)
 
 ### Sales Transactions In Each Region
-
 ---
 From the execution carriedout in the retrieval of total sales transaction in each region we have
 - North central: Had total sales transaction of 2481 and the is the highest
@@ -349,7 +346,6 @@ From the execution carriedout in the retrieval of total sales transaction in eac
 ![Region transaction](https://github.com/user-attachments/assets/09389795-4fd3-469f-847e-345c07d99061)
 
 ### Highest-Selling Product Total Sales Value
-
 ---
 The execution of Product Total Sales Value carriedout in the current year to ascertain the highest sales are as follows:
 shoes:successful sales of 613380 as the highest sales 
@@ -376,9 +372,9 @@ The above analysis shows that shoes has the highest sales, seconded by jacket wh
 
 <img width="960" alt="Total revenue per product" src="https://github.com/user-attachments/assets/2dacf499-746f-4683-95b8-3ef10c03690f">
 
-### Monthly Query Report 
+### MONTHLY QUERY REPORT 
 
-summary
+Summary
 ---
 Here is the calculated monthly sales totals for the current year 2024 sales trends with the execution of successful committed rows the exceution of 8rows.
 
