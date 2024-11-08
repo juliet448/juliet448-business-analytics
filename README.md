@@ -3,31 +3,86 @@
 ---
 I am an aspiring business analyst, actively engaged in professional development with an incubator hub. This experience has enhanced my skills in data analysis, manipulation and visualization. Tasked with analyzing sales performance, market research and trends with hands-on projects, extracting insights from data to drive informed business decision-making and business growth. 
 
-###  Project Tittle: Sales Performance Analysis for a Retail Store
+### LITA CAPSTONE PROJECT 
+---
+Introduction to capstone project on data anlysis: This capstone project displays the application of data analysis methodologies using excel,  SQL and power BI and leveraging real-world data sets. This project showcases expertise in data manipulation, analysis, and visualization. In today's fast-paced, data-driven economy, organizations rely on accurate and timely, uncover meaningful insights to inform strategic decisions-making, drive growth, and maintain competitiveness.
+
+In this project we will be working on dervse of data, unclean and cleaned data, manipulations and anlysis to uncover pattern, trends while utilizing Excel, first hand data exploration and analysis, implementing functions and pivot tables to summarise key findings. SQL we will engaged in more advanced data querying and management permiting us to retrieve and manipulate large datasets from relational data base effectively and efficiently. 
+
+Lastly, we will be using power BI to create interactive visualisations and dashboards to present our findings in a user-friendly pattern. This capstone project undertakes a comprehensive examination of data analysis and visualization methodologies utilizing Power BI, a leading business analytics platform. The primary objective of this project is to demonstrate expertise in data modeling, dashboard creation, and predictive analytics, thereby informing strategic business decisions.
+
+
+
+###  PROJECT TITTLE: COMPREHENSIVE DATA ANALYSIS USING EXCEL, SQL AND POWER BI INTERGRATION
 ---
 [CAPSTONE PROJECT OVERVIEW](#capstone-project-overview)
+
 [PROJECT OBJECTIVE](#project-Objective)
-[PROJECT 1A SALES PERFORMANCE ANALYSIS FOR A RETAIL STORE USING EXCEL](#project-1-sales-performance-analysis-for-a-retail-store-using-excel)
+
+[EXPECTED OUTPUT](#expectected-output)
+
+[PROJECT 1A SALES PERFORMANCE ANALYSIS FOR A RETAIL STORE USING EXCEL](#project-1A-sales-performance-analysis-for-a-retail-store-using-excel)
+
 [DATA SOURCES](#Data-Sources)
+
 [METRICS OF FOCUS](#metrics-of-Focus)
+
 [TOOLS USED](#tools-Used)
+
 [EXPLORATORY DATA](Exploratory-Data-Analysis)
+
 [DATA VISUALIATION](#data_visualisation)
 
-### project overview
----
-- Analyze and evaluate the retail store's sales performance,sales data to identifying factors driving sales growth, trends, opportunities, and challenges, informing data-driven decisions to optimize sales performance and improve overall business strategy.
+[PROJECT 1B SALES PERFORMANCE ANALYSIS FOR A RETAIL STORE USING SQL](#project-1B-sales-performance-analysis-for-a-retail-store-using-SQL)
 
-### Objective:
----
-- Data Collection: collect comrehensive Revenue, unit sold region, transaction category from various stores.
-- Trend Analysis: Identifying sales trend and analysing historical patterns using of dataset such as region, unit sold, revenue and product during specific periods.
-- Reporting: Identify top-selling products, customer segments, and sales trends, analysing generated reports that summarieses findings that offers strategic recommendaations based on analysis.
-- Analyze sales data to identify trends, opportunities, and challenges, informing data-driven decisions to optimize sales performance and improve overall business strategy.
+[TOOLS USED](#tools-Used)
 
-### Data Sources
+[QUERIES AND OUTPUT](#queries-output)
+
+[PROJECT 1C SALES PERFORMANCE ANALYSIS FOR A RETAIL STORE USING POWERBI](#project-1C-sales-performance-analysis-for-a-retail-store-using-powerbi)
+
+[DASHBORAD OVERVIEW](#dashboard-overview)
+
+[CONCLUSION](#conclusion)
+
+### CAPSTONE PROJECT OVERVIEW:
 ---
-- Datasets sources contains the following such as:
+The Capstone Project encompasses a comprehensive data analytics initiative, employing Excel, SQL, and Power BI to analyze complex datasets, identify key trends, and inform strategic decision-making. 
+
+### OBJECTIVES:
+---
+- Data Collection: Compile comprehensive revenue, unit sales, and transaction data from various retail outlets, categorized by region and product.
+- Trend Analysis: Conduct rigorous historical sales trend analysis utilizing dataset variables to identify patterns and correlations.
+- Reporting: Develop detailed reports highlighting top-performing products, customer segments, and sales trends, with actionable recommendations.
+- Sales Analysis and Optimization: Inform strategic business decisions through data-driven insights, optimizing sales performance and enhancing overall business strategy.
+
+### EXPECTED OUTPUT
+---
+ This capstone project encompasses a thorough report and engaging interactive visualizations, presenting methodologies, key findings, and actionable recommendations. 
+
+Through hands-on experience with real-world data scenarios, participants develop expertise in data manipulation, analysis, and visualization using industry-leading tools, cultivating analytical skills and readiness for careers in data analysis and business intelligence.
+
+### PROJECT 1A: SALES PERFORMANCE ANALYSIS FOR A RETAIL STORE USING EXCEL
+---
+I am tasked with to analyse the sales performance of a retail store. I will be using pivot tables, to explore sales data tools to review meaningful insights such as the best regional revenue generation, top selling products and monthly sales trends perfomance. 
+
+- Excel
+        1. Use Excel formulas to calculate metrics e.g Total revenue by region, total revenue by er products.
+        2. Perfom initial exploration using pivot table to summarise total sales by month, region.
+
+### DATA SOURCES
+---
+The data sources used are shown below:
+1. Order_ID: Unique identifier for each order assigned to a particular customer in the system
+2. Customer_ID: Unique identifier assigned to a particular order for each customer, merginging customer to a particular orders and other important details.
+3. Region: Geographic region where the order was made from or delivered to.
+4. Quantity: Number of unit of products ordered
+5. Unit Price: Price per product i.e a particular price tagged on a single product for easy calculation
+6. Order Date: Date the order was placed providing insight to frequency of orders.
+7. Product: Type of product ordered usually is display/described as name and code.
+
+### METRICS OF FOCUS
+---
 - Total sales by product: This indentifies the quantity of products sold during a specific. The most selling products that shows drive majority of sales, strong growth potentials and a declining sales that requires attention due.
 - Total sales by region: This represents the geographical areas where stores are situated, Summarising the quantity of products sold and total income generated from sales transactions, highest generating revenue in the regions and a declining sales in the region.
 - Total sales by month: Acurrately analysing sales transactions from January to December, identifying potential month sales and declining months sales for improvement.
@@ -36,70 +91,99 @@ I am an aspiring business analyst, actively engaged in professional development 
 
 - The above detailed dataset collection of sales Performance Analysis for a retail store, provided informed insight of customer behaviour and sales performance.
 
-### Metrics of Focus
----
-- Sum of total sales by product
-- Sum of total sales by region
-- Sum of total sales by month
-- Average sales per product
-- Total revenue by region.
- 
- ### Tools Used
+ ### TOOLS USED
 --- 
 - Microsoft Excel:
 - Formulas and Function: This was used to calculate performance, and automate processses e.g filtering and sorting =SUMIF(D:D,D2,H1:H9922)
 - Pivot Table: This is grouping data, analysing and generating informed insights e.g sales by product, revenur by region, sales by month to enhance informed decision making.
 - Data Visualisation: This is using dataset to create visual trends, key insight and comparison.
 
-### Exploratory Data Analysis
+### EXPLORATORY DATA ANALYSIS
 ---
 - EDA includes exploring the data to respond to some questions about the data such as;
 - What is the overall revenue for each region?
 - Which of the month has year over year growth?
+- Which product has the highest sales?
 - Which product has the lowest sales?
 
 ### DATA VISUALIZATION
   --- 
   - These includes the following dataset as shown below:
   
-### Tota sales by Product 
+### TOTAL SALES BY PRODUCT
+
+### PIVOT TABLE:
 
 <img width="960" alt="Total sales by Product pivot" src="https://github.com/user-attachments/assets/7b9c861e-322d-4ab7-9d02-f74b4ed8ede6"> 
 ---
 - Summary of sales by Product: 
-- Here Product of shoes and shirt sales shows drive majority of sales. 
-- Here Product of Hat and Gloves sales shows strong growth potential. 
-- Here Product Jacket and Stocks sales requires attention due to declining sales.
+- Here Product of shoes 613,300 and shirt 485,600 sales shows drive majority of sales. 
+- Here Product of Hat 316,195 and Gloves 296,900 sales shows strong growth potential. 
+- Here Product Jacket 208,230 and Stocks 180,785 sales requires attention due to declining sales.
 
-### Total sales by Region
+ ### CONCLUSION
+ ---
+The company should provides exclusive discount in other to continue to maintain maximimun sales and remain the market nicher in shoes and shirts as the most selling product in the market. while for the lower performing product like socks and jacket, strategic seasonal promotions and discounting, other popular items and training of staffs may help to improve sales. From the above analysis indicate a well-balanced product mix, but improvement on inventory and marketing for underperforming products may increase total sales performance for future growth. 
+
+### TOTAL SALES BY REGION
  ---
  <img width="960" alt="sales by region pivot" src="https://github.com/user-attachments/assets/7647cf29-1e98-4465-9448-d07387c38f96"> 
  ---
  - Summary of sales by Region 
- - South region drives highest sales with total point value 927,820 (44%). 
- - East region shows strong growth potential of sales with 485,925. 
- - North region: There is a  decline in sales of showing 387,000 compare to South region and this requires attention due to findings 
- - West region maintains stable sales of 300,345.
- 
+ - South region drives highest sales with total point value ₦927,820 (44%). 
+ - East region shows strong growth potential of sales with ₦485,925. 
+ - North region: There is a  decline in sales of showing ₦387,000 compare to South region and this requires attention due to findings 
+ - West region maintains stable sales of ₦300,345.  
+
+ ### CONCLUSION 
+ ---
+The sales data shows that the South region leads with ₦927,820 in sales, accounting for 44% of the total sales. The East region follows with ₦485,925 (23% of total sales), while the North and West regions trail behind with ₦387,000 (18%) and ₦300,345 (14%) respectively. The South region is the strongest performer. The East region is a significant contributor to overall sales with a strong potential growth, while the North and West regions require improvement.
+The west region clearly shows that the west region low performance indicates that there's a need for strategic improvement while focusing on marketing efforts in the North and West regions, analyze customer preferences in the South and East regions and implement targeted strategies to boost sales in underperforming regions.
+
+Total Sales: ₦2,101,090.
+
+
 ### Tota sales by Month
 
 ----
 
-- FILTER CHART FOR THE FOR MONTH SALES
+- CHART FOR THE FOR MONTH SALES
 - --
+- The highest sales month was February with 247,500.
+- The lowest sales month was April with 7,000.
+- Flutuated Sales steadily throughout the year.
+
 <img width="960" alt="total sales by month" src="https://github.com/user-attachments/assets/652582c6-a4c1-495a-9760-97211bf2f399">
 
 ---
 - FILTER CHART FOR THE YEAR 2023
 <img width="960" alt="image" src="https://github.com/user-attachments/assets/5520cb3a-0663-4490-898b-87a07852a1c2">
 ---
+- The highest sales month was February and July with (247,500 & 237,600).
+- The lowest sales month was April and December with 7,000 & 49,300.
+- Fluntuated Sales steadily throughout the year.
+
 - FILTER CHART FOR THE YEAR 2024
 - - -
+- The highest sales month was February and January with (298,800 & 198,400).
+- The lowest sales month was April and July with 39,440 & 37,200.
+- Flutuated Sales steadily throughout the year.
+
 <img width="960" alt="image" src="https://github.com/user-attachments/assets/503c5961-ac11-448d-b452-62691761acfa">
+
+summary
+  This report highlights the company's sales performance for the year, providing valuable insights for future growth and development.
+as February remains the highest and it increased from the previous amount to a higher sales  Steady sales growth, Steady sales growth for both year 2023 and 2024.
 
 ### Average Sales Per Product
 
 ---
+1. Shirt had the highest average sales (327%).
+2. Gloves had the second highest average sales (200%).
+3.  had the highest average sales (327%).
+4. Socks had the lowest average sales (122%).
+5. Shirt  accounted for 30% of total sales.
+
 <img width="960" alt="image" src="https://github.com/user-attachments/assets/43a3dcba-67c3-4e12-bb75-ffaa93a4f283">
 
 ### Total Revenue by Region Report
@@ -136,7 +220,7 @@ I am an aspiring business analyst, actively engaged in professional development 
  ---
  <img width="960" alt="image" src="https://github.com/user-attachments/assets/cd21a220-24f8-41ee-ba1f-446643a3841b">
  ---
- - South: This region generated thee highest sales with 44% 
+ - South: This region generated the highest sales with 44% 
  - East region: This region has the second highest revenue of 23% growth
  - North region: Here in this region has decrease of 19% growth market sales.
  - West region: The revenue  generation in the west region has the lowest sales in the geographical region. 
@@ -340,15 +424,7 @@ Here are Top 5 customer purchase
 ---
 - Loyalty programs should be given to top customers. Identify opportunities for cross-selling through customer purchasing behaviour. ensure satisfaction and monitor customer rention.
 
-Report Date: [6/11/2024]
-
-Database: [SQL]
-
-
-
-
-
-
+### IN CONCLUSION
 
 
 
