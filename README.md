@@ -142,17 +142,15 @@ The west region clearly shows that the west region low performance indicates tha
 
 Total Sales: ₦2,101,090.
 
-
-### Tota sales by Month
+### TOTAL ANNUAL SALES
 
 ----
-
 - CHART FOR THE FOR MONTH SALES
 - --
-- The highest sales month was February with 247,500.
-- The lowest sales month was April with 7,000.
-- Flutuated Sales steadily throughout the year.
-
+- The highest sales the month  which is the peak are February,July and october.
+- The low sales of the month are April, August and December.
+- Consistent Sales throughout the year is May, June and September
+  
 <img width="960" alt="total sales by month" src="https://github.com/user-attachments/assets/652582c6-a4c1-495a-9760-97211bf2f399">
 
 ---
@@ -171,26 +169,42 @@ Total Sales: ₦2,101,090.
 
 <img width="960" alt="image" src="https://github.com/user-attachments/assets/503c5961-ac11-448d-b452-62691761acfa">
 
-summary
-  This report highlights the company's sales performance for the year, providing valuable insights for future growth and development.
+- summary
+This report highlights the company's sales performance for the year, providing valuable insights for future growth and development.
 as February remains the highest and it increased from the previous amount to a higher sales  Steady sales growth, Steady sales growth for both year 2023 and 2024.
 
-### Average Sales Per Product
+### CONCLUSION
+---
+The analysis provides a quick picture of the monthly sales performance, indicating the best and worst months sales trends. February and July have exceptionally high sales, while April has significantly low sales and sales peak in Q3 and Q4 and focusing on developing strategies to maintain Q3 and Q4 sales momentum.
 
+### AVERAGE SALES (PER MONTH) ANALYSIS
 ---
 1. Shirt had the highest average sales (327%).
-2. Gloves had the second highest average sales (200%).
-3.  had the highest average sales (327%).
-4. Socks had the lowest average sales (122%).
-5. Shirt  accounted for 30% of total sales.
+2. Gloves had the second highest average sales (200%) and show potential for growth.
+3. Jacket, Socks and hat had the lowest average sales.
+
+### CONCLUSION
+---
+From indications of analysis the  needs to focus on high-demanding items like shirts and shoes, increasing inventory and marketing efforts for shirts and shoes.
+ Analyze customer preferences for gloves to capitalize on growth while strategising targeted marketing for gloves. For the low performing products require improved marketing or product adjustments, company could re-evaluate pricing, design, discounts or targeting for socks, jackets, and hats to optimize or discontinue underperforming products.
 
 <img width="960" alt="image" src="https://github.com/user-attachments/assets/43a3dcba-67c3-4e12-bb75-ffaa93a4f283">
 
-### Total Revenue by Region Report
+### TOTAL REVENUE BY REGION ANALYSIS
 ----
+- The South region generates the highest revenue, accounting for 44.2% of the total that drives nearly half of total revenue.
+- The East region contributes 23.1% to the total revenue.
+- The North and West regions have lower revenue shares, at 18.4% and 14.3%, respectively.
+
 <img width="960" alt="Average, region revenue by revenue" src="https://github.com/user-attachments/assets/2a7001d5-d537-4405-84b3-7b69b8ba6f33">
 
-### Top 3 Region Sales Report
+### CONCLUSION
+---
+The company could invest in South region's marketing and sales efforts to maintain momentum as the south region's strong performance drives overall revenue and analyzing the significant contributions indicate a potential for growth in East region's success factors and replicate in other regions. For the North and West regions require strategic attention to improve revenue and Develop targeted strategies,explore new markets and partnerships to boost revenue in North and West regions. Also ensure customer engaement and loyalty programs.
+
+### INTERESTING REPORTS
+
+### TOP 3 REGION SALES REPORT
 <img width="960" alt="image" src="https://github.com/user-attachments/assets/0fa4509b-c020-4ea2-81e9-81d2a65982a2">
 
 ---
